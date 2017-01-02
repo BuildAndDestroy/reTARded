@@ -1,0 +1,6 @@
+Backup scripts for your CentOS 7 and Ubuntu servers, also works on Kali Linux.
+
+1. Run the "Setup.sh" file first to setup environment.
+2. Do as Setup.sh states at the end of the script.
+
+The script will tar up all files then request to send to a NAS server. If you don't have a NAS mounted to /mnt/ then pass.
